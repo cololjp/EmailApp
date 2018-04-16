@@ -58,7 +58,7 @@ public class Email {
         return "Employee: " + employee.getFirstName() + " " + employee.getLastName() +
                 "\nEmail adress: " + adress +
                 "\nPassword: " + password +
-                "\nAlternative Email: " + inboxCapacity;
+                "\nAlternative Email: " + alternativeEmail;
     }
 
 }
